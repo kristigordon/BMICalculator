@@ -2,8 +2,7 @@
 Created a program that can caluclate your BMI with just a couple inputs. 
 
 This was done using 2 inputs and knowledge of variable types. 
-<p>
-  <br>
+
 ```
   print("Welcome! Congratulations for taking your first step on your journey to better health")
   
@@ -17,6 +16,6 @@ This was done using 2 inputs and knowledge of variable types.
   
   print("Your BMI is " + str(bmiFinal))
   ```
-  <br>
+
 
 <img width="1162" alt="Screen Shot 2022-07-16 at 12 19 13 AM" src="https://user-images.githubusercontent.com/66803124/179339012-9091feb4-531a-47d2-99b0-764cd59a645d.png">
